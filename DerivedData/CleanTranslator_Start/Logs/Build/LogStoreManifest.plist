@@ -5,6 +5,143 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>433C2E06-5CB4-4A00-BFCF-093A99B7EBE8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>433C2E06-5CB4-4A00-BFCF-093A99B7EBE8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CleanTranslator_Start project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CleanTranslator_Start</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CleanTranslator_Start</string>
+			<key>timeStartedRecording</key>
+			<real>668449723.78494501</real>
+			<key>timeStoppedRecording</key>
+			<real>668449725.91863203</real>
+			<key>title</key>
+			<string>Build CleanTranslator_Start</string>
+			<key>uniqueIdentifier</key>
+			<string>433C2E06-5CB4-4A00-BFCF-093A99B7EBE8</string>
+		</dict>
+		<key>9A1503FC-441E-4E95-B631-DEAD6BE6E61F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A1503FC-441E-4E95-B631-DEAD6BE6E61F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CleanTranslator_Start project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CleanTranslator_Start</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CleanTranslator_Start</string>
+			<key>timeStartedRecording</key>
+			<real>668259173.95135605</real>
+			<key>timeStoppedRecording</key>
+			<real>668259175.10267901</real>
+			<key>title</key>
+			<string>Build CleanTranslator_Start</string>
+			<key>uniqueIdentifier</key>
+			<string>9A1503FC-441E-4E95-B631-DEAD6BE6E61F</string>
+		</dict>
+		<key>B146713A-5E83-4842-968B-59EE17B1094D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B146713A-5E83-4842-968B-59EE17B1094D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CleanTranslator_Start project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CleanTranslator_Start</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CleanTranslator_Start</string>
+			<key>timeStartedRecording</key>
+			<real>668448934.27191699</real>
+			<key>timeStoppedRecording</key>
+			<real>668448934.38365805</real>
+			<key>title</key>
+			<string>Build CleanTranslator_Start</string>
+			<key>uniqueIdentifier</key>
+			<string>B146713A-5E83-4842-968B-59EE17B1094D</string>
+		</dict>
+		<key>F904192C-663A-4E90-862E-C21CC313125B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F904192C-663A-4E90-862E-C21CC313125B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CleanTranslator_Start project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CleanTranslator_Start</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CleanTranslator_Start</string>
+			<key>timeStartedRecording</key>
+			<real>668448930.70553803</real>
+			<key>timeStoppedRecording</key>
+			<real>668448932.37334704</real>
+			<key>title</key>
+			<string>Build CleanTranslator_Start</string>
+			<key>uniqueIdentifier</key>
+			<string>F904192C-663A-4E90-862E-C21CC313125B</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.5.0)
+  - Apexy (1.7.0):
+    - Apexy/Alamofire (= 1.7.0)
+  - Apexy/Alamofire (1.7.0):
+    - Alamofire (~> 5.0)
+    - Apexy/Core
+  - Apexy/Core (1.7.0)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - Apexy
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Apexy
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Apexy: 060236c867d2bcf8b11d761d7dbb9180a7bf9f32
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: a70fd2b64981cb634a0fce756903fdf65357928f
+
+COCOAPODS: 1.11.2
