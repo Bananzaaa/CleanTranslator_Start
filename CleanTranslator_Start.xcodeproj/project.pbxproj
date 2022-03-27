@@ -31,15 +31,15 @@
 		8C20D83E27D4CD3A00FD027F /* AlertFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C20D83D27D4CD3A00FD027F /* AlertFactory.swift */; };
 		8C20D84027D4CDC700FD027F /* TranslationScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C20D83F27D4CDC700FD027F /* TranslationScreenView.swift */; };
 		8C20D84227D4CDCF00FD027F /* TranslationScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C20D84127D4CDCF00FD027F /* TranslationScreenViewController.swift */; };
-		8CF3682927E8FC8A00FA0DF1 /* TranslationScreenModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF3681B27E8FC8A00FA0DF1 /* TranslationScreenModels.swift */; };
-		8CF3682A27E8FC8A00FA0DF1 /* TranslationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF3681C27E8FC8A00FA0DF1 /* TranslationModel.swift */; };
-		8CF3682B27E8FC8A00FA0DF1 /* TranslationScreenCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF3681D27E8FC8A00FA0DF1 /* TranslationScreenCoordinator.swift */; };
-		8CF3682C27E8FC8A00FA0DF1 /* TranslationScreenWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF3682027E8FC8A00FA0DF1 /* TranslationScreenWorker.swift */; };
-		8CF3682D27E8FC8A00FA0DF1 /* TranslationScreenDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF3682127E8FC8A00FA0DF1 /* TranslationScreenDataStore.swift */; };
-		8CF3682E27E8FC8A00FA0DF1 /* TranslationScreenInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF3682427E8FC8A00FA0DF1 /* TranslationScreenInteractor.swift */; };
-		8CF3682F27E8FC8A00FA0DF1 /* TranslationScreenModuleFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF3682627E8FC8A00FA0DF1 /* TranslationScreenModuleFactory.swift */; };
-		8CF3683027E8FC8A00FA0DF1 /* TranslationScreenCoordinatorFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF3682727E8FC8A00FA0DF1 /* TranslationScreenCoordinatorFactory.swift */; };
-		8CF3683227E8FD6B00FA0DF1 /* TranslationScreenPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF3683127E8FD6B00FA0DF1 /* TranslationScreenPresenter.swift */; };
+		8CD3A44627F035660038A201 /* TranslationScreenPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD3A43727F035660038A201 /* TranslationScreenPresenter.swift */; };
+		8CD3A44727F035660038A201 /* TranslationScreenModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD3A43927F035660038A201 /* TranslationScreenModels.swift */; };
+		8CD3A44827F035660038A201 /* TranslationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD3A43A27F035660038A201 /* TranslationModel.swift */; };
+		8CD3A44927F035660038A201 /* TranslationScreenCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD3A43B27F035660038A201 /* TranslationScreenCoordinator.swift */; };
+		8CD3A44A27F035660038A201 /* TranslationScreenWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD3A43E27F035660038A201 /* TranslationScreenWorker.swift */; };
+		8CD3A44B27F035660038A201 /* TranslationScreenDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD3A43F27F035660038A201 /* TranslationScreenDataStore.swift */; };
+		8CD3A44C27F035660038A201 /* TranslationScreenInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD3A44227F035660038A201 /* TranslationScreenInteractor.swift */; };
+		8CD3A44D27F035660038A201 /* TranslationScreenModuleFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD3A44427F035660038A201 /* TranslationScreenModuleFactory.swift */; };
+		8CD3A44E27F035660038A201 /* TranslationScreenCoordinatorFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD3A44527F035660038A201 /* TranslationScreenCoordinatorFactory.swift */; };
 		F37E8F519FB78B4C4FA73295 /* Pods_CleanTranslator_Start.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB0A0BDAB29704B445C3689F /* Pods_CleanTranslator_Start.framework */; };
 /* End PBXBuildFile section */
 
@@ -71,15 +71,15 @@
 		8C20D83D27D4CD3A00FD027F /* AlertFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlertFactory.swift; sourceTree = "<group>"; };
 		8C20D83F27D4CDC700FD027F /* TranslationScreenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenView.swift; sourceTree = "<group>"; };
 		8C20D84127D4CDCF00FD027F /* TranslationScreenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenViewController.swift; sourceTree = "<group>"; };
-		8CF3681B27E8FC8A00FA0DF1 /* TranslationScreenModels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenModels.swift; sourceTree = "<group>"; };
-		8CF3681C27E8FC8A00FA0DF1 /* TranslationModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationModel.swift; sourceTree = "<group>"; };
-		8CF3681D27E8FC8A00FA0DF1 /* TranslationScreenCoordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenCoordinator.swift; sourceTree = "<group>"; };
-		8CF3682027E8FC8A00FA0DF1 /* TranslationScreenWorker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenWorker.swift; sourceTree = "<group>"; };
-		8CF3682127E8FC8A00FA0DF1 /* TranslationScreenDataStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenDataStore.swift; sourceTree = "<group>"; };
-		8CF3682427E8FC8A00FA0DF1 /* TranslationScreenInteractor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenInteractor.swift; sourceTree = "<group>"; };
-		8CF3682627E8FC8A00FA0DF1 /* TranslationScreenModuleFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenModuleFactory.swift; sourceTree = "<group>"; };
-		8CF3682727E8FC8A00FA0DF1 /* TranslationScreenCoordinatorFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenCoordinatorFactory.swift; sourceTree = "<group>"; };
-		8CF3683127E8FD6B00FA0DF1 /* TranslationScreenPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslationScreenPresenter.swift; sourceTree = "<group>"; };
+		8CD3A43727F035660038A201 /* TranslationScreenPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenPresenter.swift; sourceTree = "<group>"; };
+		8CD3A43927F035660038A201 /* TranslationScreenModels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenModels.swift; sourceTree = "<group>"; };
+		8CD3A43A27F035660038A201 /* TranslationModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationModel.swift; sourceTree = "<group>"; };
+		8CD3A43B27F035660038A201 /* TranslationScreenCoordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenCoordinator.swift; sourceTree = "<group>"; };
+		8CD3A43E27F035660038A201 /* TranslationScreenWorker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenWorker.swift; sourceTree = "<group>"; };
+		8CD3A43F27F035660038A201 /* TranslationScreenDataStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenDataStore.swift; sourceTree = "<group>"; };
+		8CD3A44227F035660038A201 /* TranslationScreenInteractor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenInteractor.swift; sourceTree = "<group>"; };
+		8CD3A44427F035660038A201 /* TranslationScreenModuleFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenModuleFactory.swift; sourceTree = "<group>"; };
+		8CD3A44527F035660038A201 /* TranslationScreenCoordinatorFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenCoordinatorFactory.swift; sourceTree = "<group>"; };
 		A3981FD110E79ED017A71641 /* Pods-CleanTranslator_Start.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CleanTranslator_Start.debug.xcconfig"; path = "Target Support Files/Pods-CleanTranslator_Start/Pods-CleanTranslator_Start.debug.xcconfig"; sourceTree = "<group>"; };
 		DB0A0BDAB29704B445C3689F /* Pods_CleanTranslator_Start.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CleanTranslator_Start.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -128,7 +128,7 @@
 				8C20D7FF27D4CB4400FD027F /* AppDelegate.swift */,
 				8C20D80127D4CB4400FD027F /* SceneDelegate.swift */,
 				8C20D83D27D4CD3A00FD027F /* AlertFactory.swift */,
-				8CF3681727E8FC8A00FA0DF1 /* TranslationScreen */,
+				8CD3A43527F035660038A201 /* TranslationScreen */,
 				8C20D84127D4CDCF00FD027F /* TranslationScreenViewController.swift */,
 				8C20D83F27D4CDC700FD027F /* TranslationScreenView.swift */,
 				8C20D83C27D4CCD700FD027F /* Extensions */,
@@ -219,75 +219,74 @@
 			path = Extensions;
 			sourceTree = "<group>";
 		};
-		8CF3681727E8FC8A00FA0DF1 /* TranslationScreen */ = {
+		8CD3A43527F035660038A201 /* TranslationScreen */ = {
 			isa = PBXGroup;
 			children = (
-				8CF3681827E8FC8A00FA0DF1 /* Presenter */,
-				8CF3681A27E8FC8A00FA0DF1 /* Models */,
-				8CF3681D27E8FC8A00FA0DF1 /* TranslationScreenCoordinator.swift */,
-				8CF3681E27E8FC8A00FA0DF1 /* ViewControllers */,
-				8CF3681F27E8FC8A00FA0DF1 /* Worker */,
-				8CF3682227E8FC8A00FA0DF1 /* Views */,
-				8CF3682327E8FC8A00FA0DF1 /* Interactor */,
-				8CF3682527E8FC8A00FA0DF1 /* Factory */,
+				8CD3A43627F035660038A201 /* Presenter */,
+				8CD3A43827F035660038A201 /* Models */,
+				8CD3A43B27F035660038A201 /* TranslationScreenCoordinator.swift */,
+				8CD3A43C27F035660038A201 /* ViewControllers */,
+				8CD3A43D27F035660038A201 /* Worker */,
+				8CD3A44027F035660038A201 /* Views */,
+				8CD3A44127F035660038A201 /* Interactor */,
+				8CD3A44327F035660038A201 /* Factory */,
 			);
-			name = TranslationScreen;
-			path = "../../../../../../Documents/Документы — s.anatskii/Presentations/CleanSwift/TranslationScreen";
-			sourceTree = "<group>";
+			path = TranslationScreen;
+			sourceTree = SOURCE_ROOT;
 		};
-		8CF3681827E8FC8A00FA0DF1 /* Presenter */ = {
+		8CD3A43627F035660038A201 /* Presenter */ = {
 			isa = PBXGroup;
 			children = (
-				8CF3683127E8FD6B00FA0DF1 /* TranslationScreenPresenter.swift */,
+				8CD3A43727F035660038A201 /* TranslationScreenPresenter.swift */,
 			);
 			path = Presenter;
 			sourceTree = "<group>";
 		};
-		8CF3681A27E8FC8A00FA0DF1 /* Models */ = {
+		8CD3A43827F035660038A201 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				8CF3681B27E8FC8A00FA0DF1 /* TranslationScreenModels.swift */,
-				8CF3681C27E8FC8A00FA0DF1 /* TranslationModel.swift */,
+				8CD3A43927F035660038A201 /* TranslationScreenModels.swift */,
+				8CD3A43A27F035660038A201 /* TranslationModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
 		};
-		8CF3681E27E8FC8A00FA0DF1 /* ViewControllers */ = {
+		8CD3A43C27F035660038A201 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
 		};
-		8CF3681F27E8FC8A00FA0DF1 /* Worker */ = {
+		8CD3A43D27F035660038A201 /* Worker */ = {
 			isa = PBXGroup;
 			children = (
-				8CF3682027E8FC8A00FA0DF1 /* TranslationScreenWorker.swift */,
-				8CF3682127E8FC8A00FA0DF1 /* TranslationScreenDataStore.swift */,
+				8CD3A43E27F035660038A201 /* TranslationScreenWorker.swift */,
+				8CD3A43F27F035660038A201 /* TranslationScreenDataStore.swift */,
 			);
 			path = Worker;
 			sourceTree = "<group>";
 		};
-		8CF3682227E8FC8A00FA0DF1 /* Views */ = {
+		8CD3A44027F035660038A201 /* Views */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Views;
 			sourceTree = "<group>";
 		};
-		8CF3682327E8FC8A00FA0DF1 /* Interactor */ = {
+		8CD3A44127F035660038A201 /* Interactor */ = {
 			isa = PBXGroup;
 			children = (
-				8CF3682427E8FC8A00FA0DF1 /* TranslationScreenInteractor.swift */,
+				8CD3A44227F035660038A201 /* TranslationScreenInteractor.swift */,
 			);
 			path = Interactor;
 			sourceTree = "<group>";
 		};
-		8CF3682527E8FC8A00FA0DF1 /* Factory */ = {
+		8CD3A44327F035660038A201 /* Factory */ = {
 			isa = PBXGroup;
 			children = (
-				8CF3682627E8FC8A00FA0DF1 /* TranslationScreenModuleFactory.swift */,
-				8CF3682727E8FC8A00FA0DF1 /* TranslationScreenCoordinatorFactory.swift */,
+				8CD3A44427F035660038A201 /* TranslationScreenModuleFactory.swift */,
+				8CD3A44527F035660038A201 /* TranslationScreenCoordinatorFactory.swift */,
 			);
 			path = Factory;
 			sourceTree = "<group>";
@@ -418,32 +417,32 @@
 			files = (
 				8C20D80027D4CB4400FD027F /* AppDelegate.swift in Sources */,
 				8C20D83B27D4CCD300FD027F /* Extensions.swift in Sources */,
-				8CF3682B27E8FC8A00FA0DF1 /* TranslationScreenCoordinator.swift in Sources */,
+				8CD3A44927F035660038A201 /* TranslationScreenCoordinator.swift in Sources */,
+				8CD3A44627F035660038A201 /* TranslationScreenPresenter.swift in Sources */,
 				8C20D83527D4CBC600FD027F /* JsonEndpoint.swift in Sources */,
 				8C20D83127D4CBC600FD027F /* HTTPError.swift in Sources */,
 				8C20D82927D4CBC600FD027F /* ServiceLayer.swift in Sources */,
-				8CF3682C27E8FC8A00FA0DF1 /* TranslationScreenWorker.swift in Sources */,
+				8CD3A44A27F035660038A201 /* TranslationScreenWorker.swift in Sources */,
 				8C20D83227D4CBC600FD027F /* ResponseValidator.swift in Sources */,
-				8CF3683227E8FD6B00FA0DF1 /* TranslationScreenPresenter.swift in Sources */,
 				8C20D83427D4CBC600FD027F /* LanguageListEndpoint.swift in Sources */,
 				8C20D84227D4CDCF00FD027F /* TranslationScreenViewController.swift in Sources */,
 				8C20D83627D4CBC600FD027F /* APIService.swift in Sources */,
-				8CF3682927E8FC8A00FA0DF1 /* TranslationScreenModels.swift in Sources */,
+				8CD3A44727F035660038A201 /* TranslationScreenModels.swift in Sources */,
 				8C20D82A27D4CBC600FD027F /* LanguageResponseModel.swift in Sources */,
 				8C20D82E27D4CBC600FD027F /* RequestInterceptor.swift in Sources */,
 				8C20D83E27D4CD3A00FD027F /* AlertFactory.swift in Sources */,
 				8C20D82B27D4CBC600FD027F /* TranslationRequestModel.swift in Sources */,
 				8C20D82D27D4CBC600FD027F /* TranslationResponseModel.swift in Sources */,
-				8CF3682F27E8FC8A00FA0DF1 /* TranslationScreenModuleFactory.swift in Sources */,
-				8CF3682E27E8FC8A00FA0DF1 /* TranslationScreenInteractor.swift in Sources */,
+				8CD3A44D27F035660038A201 /* TranslationScreenModuleFactory.swift in Sources */,
+				8CD3A44C27F035660038A201 /* TranslationScreenInteractor.swift in Sources */,
 				8C20D83327D4CBC600FD027F /* TranslationEndpoint.swift in Sources */,
-				8CF3683027E8FC8A00FA0DF1 /* TranslationScreenCoordinatorFactory.swift in Sources */,
-				8CF3682A27E8FC8A00FA0DF1 /* TranslationModel.swift in Sources */,
+				8CD3A44E27F035660038A201 /* TranslationScreenCoordinatorFactory.swift in Sources */,
+				8CD3A44827F035660038A201 /* TranslationModel.swift in Sources */,
 				8C20D82C27D4CBC600FD027F /* TranslatorCredentials.swift in Sources */,
 				8C20D80227D4CB4400FD027F /* SceneDelegate.swift in Sources */,
 				8C20D84027D4CDC700FD027F /* TranslationScreenView.swift in Sources */,
 				8C20D83027D4CBC600FD027F /* Codable+Extensions.swift in Sources */,
-				8CF3682D27E8FC8A00FA0DF1 /* TranslationScreenDataStore.swift in Sources */,
+				8CD3A44B27F035660038A201 /* TranslationScreenDataStore.swift in Sources */,
 				8C20D83727D4CBC600FD027F /* TranslationService.swift in Sources */,
 				8C20D82F27D4CBC600FD027F /* DateFormatter+Extensions.swift in Sources */,
 			);

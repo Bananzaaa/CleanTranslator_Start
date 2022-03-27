@@ -112,3 +112,5 @@ iOSInjectionProject/
 # End of https://www.toptal.com/developers/gitignore/api/xcode,swift,cocoapods
 DerivedData
 DerivedData
+TranslationScreen/.DS_Store
+.DS_Store
