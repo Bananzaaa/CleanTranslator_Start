@@ -40,6 +40,7 @@
 		8CD3A44C27F035660038A201 /* TranslationScreenInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD3A44227F035660038A201 /* TranslationScreenInteractor.swift */; };
 		8CD3A44D27F035660038A201 /* TranslationScreenModuleFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD3A44427F035660038A201 /* TranslationScreenModuleFactory.swift */; };
 		8CD3A44E27F035660038A201 /* TranslationScreenCoordinatorFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD3A44527F035660038A201 /* TranslationScreenCoordinatorFactory.swift */; };
+		8CD3A45027F043390038A201 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD3A44F27F043390038A201 /* Coordinator.swift */; };
 		F37E8F519FB78B4C4FA73295 /* Pods_CleanTranslator_Start.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB0A0BDAB29704B445C3689F /* Pods_CleanTranslator_Start.framework */; };
 /* End PBXBuildFile section */
 
@@ -80,6 +81,7 @@
 		8CD3A44227F035660038A201 /* TranslationScreenInteractor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenInteractor.swift; sourceTree = "<group>"; };
 		8CD3A44427F035660038A201 /* TranslationScreenModuleFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenModuleFactory.swift; sourceTree = "<group>"; };
 		8CD3A44527F035660038A201 /* TranslationScreenCoordinatorFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslationScreenCoordinatorFactory.swift; sourceTree = "<group>"; };
+		8CD3A44F27F043390038A201 /* Coordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
 		A3981FD110E79ED017A71641 /* Pods-CleanTranslator_Start.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CleanTranslator_Start.debug.xcconfig"; path = "Target Support Files/Pods-CleanTranslator_Start/Pods-CleanTranslator_Start.debug.xcconfig"; sourceTree = "<group>"; };
 		DB0A0BDAB29704B445C3689F /* Pods_CleanTranslator_Start.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CleanTranslator_Start.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -127,6 +129,7 @@
 			children = (
 				8C20D7FF27D4CB4400FD027F /* AppDelegate.swift */,
 				8C20D80127D4CB4400FD027F /* SceneDelegate.swift */,
+				8CD3A44F27F043390038A201 /* Coordinator.swift */,
 				8C20D83D27D4CD3A00FD027F /* AlertFactory.swift */,
 				8CD3A43527F035660038A201 /* TranslationScreen */,
 				8C20D84127D4CDCF00FD027F /* TranslationScreenViewController.swift */,
@@ -439,6 +442,7 @@
 				8CD3A44E27F035660038A201 /* TranslationScreenCoordinatorFactory.swift in Sources */,
 				8CD3A44827F035660038A201 /* TranslationModel.swift in Sources */,
 				8C20D82C27D4CBC600FD027F /* TranslatorCredentials.swift in Sources */,
+				8CD3A45027F043390038A201 /* Coordinator.swift in Sources */,
 				8C20D80227D4CB4400FD027F /* SceneDelegate.swift in Sources */,
 				8C20D84027D4CDC700FD027F /* TranslationScreenView.swift in Sources */,
 				8C20D83027D4CBC600FD027F /* Codable+Extensions.swift in Sources */,
